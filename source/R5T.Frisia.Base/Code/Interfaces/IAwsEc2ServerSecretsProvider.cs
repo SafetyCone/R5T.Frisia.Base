@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace R5T.Frisia.Base
+namespace R5T.Frisia
 {
     public interface IAwsEc2ServerSecretsProvider
     {
